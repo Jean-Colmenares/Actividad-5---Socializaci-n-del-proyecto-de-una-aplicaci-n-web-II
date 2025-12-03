@@ -34,11 +34,6 @@ Incluye:
 
 ---
 
-## 📁 Estructura del proyecto
-
-
----
-
 ## 🔧 Instalación del proyecto
 
 ### 1️⃣ Clonar el repositorio
@@ -50,6 +45,7 @@ git clone https://github.com/tu-repo/inventario.git
 
 - cd backend
 - npm install
+- npm run dev
 
 ### Ejecutar el servidor
 
@@ -58,6 +54,8 @@ node server.js
 ### backend disponible en:
 
 http://localhost:5000
+
+http://localhost:5000/api/products
 
 
 ### Documentacion swagger
